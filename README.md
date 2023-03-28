@@ -4,7 +4,7 @@ Face Detection using keras and tensorflow.
 ## Overview
 
 In this project I have developed a face detection model using libraries like 
-* Keras (for building the model)
+* Keras (for building the model and calling the VGG16 Transfer Learning Model)
 * Tensorflow  (for image data storing, loading etc)
 * Labelme (for annotations)
 * Albumentation (for data augmentation)
