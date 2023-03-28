@@ -22,3 +22,4 @@ Take a look at the detection by this model-
 
 ![](https://github.com/Lak2k1/Face-Detection/blob/main/2.gif)
 
+##I have removed images from output of visualization in the notebook as I didn't wanted to have it on my github.
